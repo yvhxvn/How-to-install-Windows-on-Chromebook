@@ -20,7 +20,8 @@ You need to find out the model and hardware of your Chromebook to make sure that
 2. Type `chrome://system`
 3. Scroll down to **vpd\_2.0**
 4. Click on **Expand...** to check the model of Chromebook
-
+![1](https://github.com/user-attachments/assets/7b4fdede-cfef-4eb3-94ad-a823a0e5cd97)
+![2](https://github.com/user-attachments/assets/6c450793-c87d-471b-a04a-869c2909418f)
 Once you know the model of your chromebook, you should also find information about the **hardware** of your model.
 
 *Whether it is possible to run Windows 10/11 on your Chromebook depends on the hardware in it.*
@@ -39,11 +40,14 @@ Once you know the model of your chromebook, you should also find information abo
 
 **If you did everything right, you should get one of these results:**
 
-![img](iur4monu5m0f1 "if you see this message, you can safely install Windows 10")
+![2025-05-12_112638](https://github.com/user-attachments/assets/2eb224df-6b63-429a-b8ec-dc587113d5de)
+If you see this message, you can safely install Windows 10
 
-![img](nt9ih5ba6m0f1 "If you see this message, you are still able to install Windows 10, you will need to install the «stripped down version»‎, more on this later in the guide")
+![2025-05-12_112728](https://github.com/user-attachments/assets/22f70d26-6432-44d8-971b-4a5503d19c30)
+If you see this message, you are still able to install Windows 10, you will need to install the «stripped down version»‎, more on this later in the guide
 
-![img](az8lackd6m0f1 "if you see this message, I do not recommend installing Windows 10")
+![2025-05-12_112845](https://github.com/user-attachments/assets/ee39ec03-7cea-459b-a018-3ea819e0d1fe)
+if you see this message, I do not recommend installing Windows 10
 
 **Once you have received the answer to whether it is possible to install Windows 10 on your Chromebook, you can also read the list of drivers that will be required for the system to work correctly, this is a very important point, so be careful.**
 
@@ -55,15 +59,20 @@ Now we will start working with your chromebook to prepare it for the installatio
 
 Your Chromebook should be turned off.
 
-![img](49u49hjh6m0f1 "Instructions on how to get into Developer Mode")
+![2025-05-12_114426](https://github.com/user-attachments/assets/d6a3efd2-ed75-40fc-89e5-a2c62937b150)
+Instructions on how to get into Developer Mode
 
 You should see this message:
+![f6c178ff-9815-458d-a028-883737b60af7](https://github.com/user-attachments/assets/842a8d38-8652-428a-ba22-e29fd20f1441)
 
 **Press** ***Ctrl+D*** **and after** **to turn OS verification OFF, press** ***Enter***
+![6cEgdZJL19-3NPmuBHvBlyDyQJtwg6IP5A](https://github.com/user-attachments/assets/ab2b2363-1040-4849-a9a9-5a14f960893c)
+
 
 **When you see this message, press** ***Ctrl+D*** **again and wait for the system to switch you to Developer mode.**
 
 **After the timer expires, you will see the same message that «OS verification is OFF»** **press** ***Ctrl+D*** **again.**
+![maxresdefault](https://github.com/user-attachments/assets/6f0e0978-70ef-4370-8c3b-f2b34deb51a3)
 
 If you've done everything right, you'll see the new chromebook user registration window.
 
@@ -86,11 +95,13 @@ If your Сhromebook has a way to disconnect the battery without reaching in, rem
 3. Carefully check for a screw labelled ***«WP»***
 4. If you see such a screw, unscrew it and you're done
 
-![img](072lf47x6m0f1 "screw labelled «WP»")
+![2025-05-12_142248](https://github.com/user-attachments/assets/0561907e-3e88-4958-b859-6fcd891964a2)
+screw labelled «WP»
 
 **In cases where you do not see a screw on your motherboard labelled** ***«WP»*****, you will need to disconnect the battery bus.** In this case, along with the battery, you will disable right-protection and then you will need to work with the device permanently connected to the power supply.
 
-![img](2dony4bz6m0f1 "the battery bus")
+![2025-05-12_142627](https://github.com/user-attachments/assets/30dd78aa-1fe8-4de2-abec-e1bf8ecdb573)
+the battery bus
 
 **After these steps, put your device back together and start it up with the power cable connected.**
 
@@ -118,6 +129,7 @@ You should see the familiar guest mode interface. You should still be connected 
 `cd;curl -LO -k https://mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`
 
 If you did everything correctly, you should see this message:
+![2025-05-13_185333](https://github.com/user-attachments/assets/0e55cf97-c361-4070-9a14-cd4fadfb72ef)
 
 **At this point, you can make sure that your Chromebook has right-protection turned off.**
 
@@ -167,6 +179,7 @@ Install the .iso format of Windows on a USB flash drive using [Rufus](https://ru
 6. Select *‘Custom: Install Windows only (advanced)‘*
 
 **Ideally, you should see this set of installation discs.**
+![where-do-you-want-to-install-windows](https://github.com/user-attachments/assets/d748bb7b-93c6-4a21-a956-185a2be992ba)
 
 **If you have a lot of discs with small capacities, you need to press** ***Shift+F10*** **to open cmd**
 
