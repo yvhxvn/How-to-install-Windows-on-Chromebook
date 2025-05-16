@@ -188,6 +188,7 @@ Install the .iso format of Windows on a USB flash drive using [Rufus](https://ru
 6. Select *‘Custom: Install Windows only (advanced)‘*
 
 **Ideally, you should see this set of installation discs.**
+
 ![where-do-you-want-to-install-windows](https://github.com/user-attachments/assets/d748bb7b-93c6-4a21-a956-185a2be992ba)
 
 **If you have a lot of discs with small capacities, you need to press** ***Shift+F10*** **to open cmd**
