@@ -67,15 +67,17 @@ Your Chromebook should be turned off.
 [Instructions on how to get into Developer Mode]
 
 You should see this message:
+
 ![f6c178ff-9815-458d-a028-883737b60af7](https://github.com/user-attachments/assets/842a8d38-8652-428a-ba22-e29fd20f1441)
 
 **Press** ***Ctrl+D*** **and after** **to turn OS verification OFF, press** ***Enter***
-![6cEgdZJL19-3NPmuBHvBlyDyQJtwg6IP5A](https://github.com/user-attachments/assets/ab2b2363-1040-4849-a9a9-5a14f960893c)
 
+![6cEgdZJL19-3NPmuBHvBlyDyQJtwg6IP5A](https://github.com/user-attachments/assets/ab2b2363-1040-4849-a9a9-5a14f960893c)
 
 **When you see this message, press** ***Ctrl+D*** **again and wait for the system to switch you to Developer mode.**
 
 **After the timer expires, you will see the same message that «OS verification is OFF»** **press** ***Ctrl+D*** **again.**
+
 ![maxresdefault](https://github.com/user-attachments/assets/6f0e0978-70ef-4370-8c3b-f2b34deb51a3)
 
 [If you've done everything right, you'll see the new chromebook user registration window.]
@@ -135,6 +137,7 @@ You should see the familiar guest mode interface. You should still be connected 
 `cd;curl -LO -k https://mrchromebox.tech/firmware-util.sh && sudo bash firmware-util.sh`
 
 If you did everything correctly, you should see this message:
+
 ![2025-05-13_185333](https://github.com/user-attachments/assets/0e55cf97-c361-4070-9a14-cd4fadfb72ef)
 
 **At this point, you can make sure that your Chromebook has right-protection turned off.**
