@@ -17,8 +17,8 @@ This was a project to revive an old Chromebook by turning it into a usable Windo
 
 ## 📂 What's in this Repo:
 - This README
+- Chromebook guide
 - Helpful resource links
-- Optional notes from my process
 
 ## 🌍 Helpful links:
 - https://www.youtube.com/watch?v=VJjO3mZvvUI&t
