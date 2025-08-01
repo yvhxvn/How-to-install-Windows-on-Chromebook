@@ -16,8 +16,7 @@ This repository documents my personal experience installing Windows 10 on the Le
 This was a project to revive an old Chromebook by turning it into a usable Windows laptop for basic tasks like browsing, documents, and media.
 
 ## 📂 What's in this Repo:
-- This README
-- Chromebook guide
+- GUIDE.md (chromebook guide)
 - Helpful resource links
 
 ## 🌍 Helpful links:
